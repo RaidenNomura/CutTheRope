@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6923ba8089ba06740a1fbf676140eafb
+guid: 46ae330bd6a6a074996f75ca6cc9e971
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -129,12 +129,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: menu_button_default_hd_0
+      name: menu_button_short_hd_0
       rect:
         serializedVersion: 2
         x: 0
         y: 145
-        width: 466
+        width: 269
         height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -143,19 +143,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cb6a79ca125c284baef8a18db78bccf
-      internalID: 1476634256
+      spriteID: 77c9300f78ebe4748a30860b20e85af9
+      internalID: 528123302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: menu_button_default_hd_1
+      name: menu_button_short_hd_1
       rect:
         serializedVersion: 2
         x: 0
         y: 34
-        width: 466
+        width: 269
         height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -164,8 +164,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49c5033c8dff80a4e8abb96f0aa9d2a2
-      internalID: -996958182
+      spriteID: 7956f529ea4ed644b823c1cfae847caf
+      internalID: 1079240872
       vertices: []
       indices: 
       edges: []
@@ -181,8 +181,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      menu_button_default_hd_0: 1476634256
-      menu_button_default_hd_1: -996958182
+      menu_button_short_hd_0: 528123302
+      menu_button_short_hd_1: 1079240872
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
